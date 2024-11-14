@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I’m a passionate **React Native Developer** who 
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawad) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-jawad-react-native-reactjs-nodejs-nextjs-expressjs/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jawadmansoor1998@gmail.com)
 
 ---
